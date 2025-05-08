@@ -38,26 +38,19 @@ Based on this analysis, we aimed to identify opportunities to guide marketing ca
 ---
 
 ## 🗂️ Project Structure
-```text
-📂 discount-motors-analysis
-│
-├── 📄 [README.md](./README.md)
-├── 📂 data
-│   └── [cars_sales.csv](./data/cars_sales.csv)                # Dataset
-│
-├── 📂 notebooks
-│   └── [discount_motors_analysis.ipynb](./notebooks/discount_motors_analysis.ipynb)  # Data Cleaning and Analysis
-│
-├── 📂 reports
-│   ├── [discount_motors_dashboard.pbix](./reports/discount_motors_dashboard.pbix)    # Power BI Dashboard 
-│   └── [dashboard_screenshot.png](./reports/dashboard_screenshot.png)               # Dashboard Screenshot
 
-```
+
+- [README.md](./README.md)
+- [cars_sales.csv](Cars_sales.csv)                # Dataset
+- [discount_motors_analysis.ipynb](Discount_motors_analysis.ipynb)  # Data Cleaning and Analysis
+- [discount_motors_dashboard.pbix](Discount_motors_dashboard.pbix)    # Power BI Dashboard 
+- [dashboard_screenshot.png](Dashboard_screenshot.png)               # Dashboard Screenshot
+
 ---
 
 ## 📷 Project Preview
 
-![Dashboard Screenshot](./reports/dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 # 🚗 Discount Motors - Análisis de ventas de autos usados
 
@@ -100,23 +93,16 @@ Con base en este análisis, se buscó identificar oportunidades para orientar ca
 
 ## 🗂️ Estructura del repositorio
 
-```text
-📂 discount-motors-analysis
-│
-├── 📄 [README.md](./README.md)
-├── 📂 data
-│   └── [cars_sales.csv](./data/cars_sales.csv)                # Dataset original
-│
-├── 📂 notebooks
-│   └── [discount_motors_analysis.ipynb](./notebooks/discount_motors_analysis.ipynb)  # Limpieza y análisis
-│
-├── 📂 reports
-│   ├── [discount_motors_dashboard.pbix](./reports/discount_motors_dashboard.pbix)    # Dashboard Power BI
-│   └── [dashboard_screenshot.png](./reports/dashboard_screenshot.png)               # Captura del dashboard
 
-```
+- [README.md](./README.md)
+- [cars_sales.csv](Cars_sales.csv)                # Dataset original
+- [discount_motors_analysis.ipynb](Discount_motors_analysis.ipynb)  # Limpieza y análisis
+- [discount_motors_dashboard.pbix](Discount_motors_dashboard.pbix)    # Dashboard Power BI
+- [dashboard_screenshot.png](Dashboard_screenshot.png)               # Captura del dashboard
+
+
 ---
 
 ## 📷 Vista previa del proyecto
 
-![Captura del Dashboard](./reports/dashboard_screenshot.png)
+![Captura del Dashboard](Dashboard_screenshot.png)
